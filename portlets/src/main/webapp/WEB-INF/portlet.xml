@@ -10,7 +10,7 @@
     <portlet>
         <description>Events Portlet</description>
         <portlet-name>home-extension</portlet-name>
-        <display-name>Login Extension Portlet</display-name>
+        <display-name>Home Extension Portlet</display-name>
 
         <portlet-class>org.exoplatform.support.EventsPortlet</portlet-class>
 
@@ -22,9 +22,9 @@
         <supported-locale>en</supported-locale>
 
         <portlet-info>
-            <title>Login Extension Portlet</title>
-            <short-title>Login Extension Portlet</short-title>
-            <keywords>Login Extension</keywords>
+            <title>Home Extension Portlet</title>
+            <short-title>Home Extension Portlet</short-title>
+            <keywords>Home Extension</keywords>
         </portlet-info>
     </portlet>
 

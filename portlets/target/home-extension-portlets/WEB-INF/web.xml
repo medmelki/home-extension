@@ -4,7 +4,7 @@
                          "http://java.sun.com/dtd/web-app_2_3.dtd">
 <web-app>
 
-    <display-name>LoginExtensionPortlet</display-name>
+    <display-name>HomeExtensionPortlet</display-name>
 
     <taglib>
         <taglib-uri>http://java.sun.com/portlet</taglib-uri>
