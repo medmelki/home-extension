@@ -13,7 +13,7 @@
 hs_err_pid*
 
 # Maven Build Dir
-target/
+#target/
 
 # Intellij IDEA
 *.iml
