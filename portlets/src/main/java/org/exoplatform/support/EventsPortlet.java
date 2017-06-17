@@ -1,11 +1,5 @@
 package org.exoplatform.support;
 
-/**
- * Created by eXo Platform MEA on 25/11/14.
- *
- * @author <a href="mailto:marwen.trabelsi.insat@gmail.com">Marwen Trabelsi</a>
- */
-
 import javax.portlet.GenericPortlet;
 import javax.portlet.PortletConfig;
 import javax.portlet.PortletException;

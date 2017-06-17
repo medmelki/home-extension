@@ -9,8 +9,8 @@
 
     <portlet>
         <description>Events Portlet</description>
-        <portlet-name>newcomers-training</portlet-name>
-        <display-name>Newcomers Training Portlet</display-name>
+        <portlet-name>home-extension</portlet-name>
+        <display-name>Login Extension Portlet</display-name>
 
         <portlet-class>org.exoplatform.support.EventsPortlet</portlet-class>
 
@@ -22,9 +22,9 @@
         <supported-locale>en</supported-locale>
 
         <portlet-info>
-            <title>Events Portlet</title>
-            <short-title>Events Portlet</short-title>
-            <keywords>events new comer</keywords>
+            <title>Login Extension Portlet</title>
+            <short-title>Login Extension Portlet</short-title>
+            <keywords>Login Extension</keywords>
         </portlet-info>
     </portlet>
 

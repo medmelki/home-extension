@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.exoplatform.support</groupId>
-  <artifactId>newcomers-training</artifactId>
+  <artifactId>home-extension</artifactId>
   <packaging>pom</packaging>
   <version>1.0</version>
 
@@ -14,7 +14,7 @@
     <module>extension</module>
   </modules>
 
-  <name>Support Newcomers Training Project</name>
+  <name>home-extension</name>
   <url>http://www.exoplatform.org</url>
 
 </project>
